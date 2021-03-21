@@ -1,0 +1,16 @@
+{
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+      "type": "origins:execute_command",
+      "command": "scale set pehkui:height 0.75",
+      "permission_level": 4
+    },
+    "entity_action_removed": {
+      "type": "origins:execute_command",
+      "command": "scale set pehkui:height 1",
+      "permission_level": 4
+    },
+    "execute_chosen_when_orb": true,
+    "name": "Small Boy",
+    "description": "Due to being in the caves for so long, you have stopped growing. You are now the height of 3/4 a normal player."
+  }

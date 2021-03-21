@@ -1,0 +1,6 @@
+{
+    "type": "origins:shader",
+    "shader": "minecraft:shaders/post/pencil.json",
+    "name": "Coal Vision",
+    "description": "You have been in the Mines for so long, your eyes have become covered in coal dust. (Toggleable by [F4])"
+  }

@@ -1,0 +1,12 @@
+{
+    "type": "origins:resource",
+    "min": 0,
+    "max": 60,
+    "start_value": 0,
+    "hidden": true,
+    "hud_render": {
+        "should_render": false
+    },
+    "name": "Too Hot",
+    "description": "Being in the sun for too long will cause you to be slowed as of exhaustion"
+}

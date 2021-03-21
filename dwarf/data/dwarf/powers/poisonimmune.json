@@ -1,0 +1,8 @@
+{
+    "type": "origins:effect_immunity",
+    "effects": [
+      "minecraft:poison"
+    ],
+    "name": "Poison Immunity",
+    "description": "Due to being in the caves and breathing in so much toxic gas you have become immune to poison."
+  }

@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.armor",
+        "operation": "addition",
+        "value": 8
+    },
+    "name": "Dusty Skin",
+    "description": "Coal and Gold Dust have plastered all over your skin giving you some defensive properties."
+}

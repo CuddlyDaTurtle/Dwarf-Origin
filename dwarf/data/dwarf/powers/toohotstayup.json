@@ -1,0 +1,14 @@
+{
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:change_resource",
+        "resource": "dwarf:toohotresource",
+        "change": 60
+    },
+    "condition": {
+        "type": "origins:exposed_to_sun",
+        "inverted": true
+    },
+    "hidden": true
+}

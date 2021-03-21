@@ -1,0 +1,29 @@
+{
+	"powers": [
+        "dwarf:small",
+		"dwarf:dusty_skin",
+		"dwarf:miners_speed",
+		"dwarf:miners_speed1",
+		"dwarf:miners_speed2",
+		"dwarf:hard_work",
+		"dwarf:nofood",
+		"dwarf:eat_gold",
+		"dwarf:poisonimmune",
+		"dwarf:eat_goldblock",
+		"dwarf:toohot1",
+		"dwarf:toohotgodown",
+		"dwarf:toohot",
+		"dwarf:toohotresource",
+		"dwarf:toohotstayup",
+		"dwarf:coalvision",
+		"dwarf:efficiency",
+		"dwarf:fortune"
+
+
+	],
+    "name": "Dwarven Miner",
+    "description": "Being a creature of the mines, you have spent your entire life in the caves. This has stunted your growth and increased your vision, along with giving you an expertise of the ores...",
+	"icon": "minecraft:golden_pickaxe",
+	"order": 2,
+	"impact": 1
+}

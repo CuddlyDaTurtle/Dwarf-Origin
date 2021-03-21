@@ -1,0 +1,12 @@
+{
+
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "enchant @s minecraft:fortune 3",
+        "permission_level": 4
+    },
+    "name": "Dwarf Magic",
+    "description": "Any tool you touch gains Fortune III"
+}
